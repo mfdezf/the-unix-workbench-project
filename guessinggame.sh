@@ -27,4 +27,9 @@ function testing_user_guess {
 obt_data
 testing_user_guess
 
+while [[ num_files_user -ne files_num ]]
+do 
+	obt_data
+	testing_user_guess
+done
 
