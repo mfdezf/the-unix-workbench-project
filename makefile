@@ -1,6 +1,6 @@
 README.md:
 	touch README.md
-	echo "# guessinggame" >> README.md
+	echo "# The unix workbench Coursera Project" >> README.md
 	echo "Date of creation of the file:" >> README.md
 	echo -n "* " >> README.md
 	date >> README.md
