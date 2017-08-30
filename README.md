@@ -1,6 +1,6 @@
-# guessinggame
+# The unix workbench Coursera Project
 Date of creation of the file:
-* Wed Aug 30 09:53:04 AST 2017
+* Wed Aug 30 10:05:33 AST 2017
 
 Number of lines of the guessinggame.sh script:
 * 34
