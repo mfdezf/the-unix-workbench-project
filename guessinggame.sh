@@ -9,7 +9,7 @@ function obt_data {
 	read num_files_user
 }
 
-let files_num=$(ls -l | wc -l)-1 	#Saving the numbers of files in the directory.
+let files_num=$(ls -la | wc -l)-1 	#Saving the numbers of files in the directory.
 
 function testing_user_guess {
 	if [[ files_num -eq num_files_user ]]
