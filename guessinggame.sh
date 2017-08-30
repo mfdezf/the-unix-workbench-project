@@ -10,7 +10,7 @@ function obt_data {
 function testing_user_guess {
 	if [[ files_num -eq num_files_user ]]
 	then
-		echo "Correct!!!"
+		echo "Correct, congratulations!!!"
 	elif [[ files_num -lt num_files_user  ]]
 	then
 		echo "Too high!!!"
